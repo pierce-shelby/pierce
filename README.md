@@ -5,6 +5,6 @@ A young man with **Full-Stack-Engineer** dream. :shipit:
 
 :earth_asia: Base Hangzhou, Zhejiang, China
 
-:octocat: @pierce-shelby
+:octocat: @[pierce-shelby](https://github.com/pierce-shelby)
 
 
