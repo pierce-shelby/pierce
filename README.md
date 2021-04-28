@@ -17,7 +17,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pierce-shelby&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pierce-shelby&show_icons=true&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierce-shelby&theme=dracula" />
 </a>
 
 
