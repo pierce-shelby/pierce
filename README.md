@@ -9,6 +9,6 @@
 
 :sparkles: - Like photograph :camera: and music :musical_note:
 
-[![Pierce's GitHub stats](https://github-readme-stats.vercel.app/api?username=pierce-shelby)](https://github.com/anuraghazra/github-readme-stats)
+![Pierce's GitHub stats](https://github-readme-stats.vercel.app/api?username=pierce-shelby&show_icons=true&theme=dracula)
 
 
