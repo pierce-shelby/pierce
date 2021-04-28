@@ -9,15 +9,7 @@
 
 :sparkles: - Like photograph :camera: and music :musical_note:
 
-![Pierce's GitHub stats](https://github-readme-stats.vercel.app/api?username=pierce-shelby&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pierce-shelby&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pierce-shelby&show_icons=true&theme=dracula" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierce-shelby&theme=dracula" />
-</a>
-
 
