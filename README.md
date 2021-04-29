@@ -1,7 +1,7 @@
 ## Home :house: is where the heart :heart: is.
 <!--this README.md is a Personal Profile which will present at GitHub profile-->
 
-#### Hi :wave: I'm Pierce(YiXun), young man with **Full-Stack-Engineer** dream. :ghost:
+#### Hi :wave: I'm Pierce, young man with **Full-Stack-Engineer** dream. :ghost:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pierce-shelby&label=Profile%20views&color=0e75b6&style=flat" alt="pierce-shelby" /> </p>
 
