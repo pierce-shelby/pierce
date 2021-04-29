@@ -17,6 +17,7 @@
 
 <a href="https://github.com/pierce-shelby">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pierce-shelby&show_icons=true&theme=dracula" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pierce-shelby&theme=dracula" alt="pierce-shelby" />
 </a>
 
 
