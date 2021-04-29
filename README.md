@@ -1,9 +1,10 @@
 ## Home :house: is where the heart :heart: is.
 <!--this README.md is a Personal Profile which will present at GitHub profile-->
 
-#### Hi :wave: I'm Pierce, young man with **Full-Stack-Engineer** dream. :ghost:
-
+### Hi :wave: I'm Pierce, young man with **Full-Stack-Engineer** dream. :ghost:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pierce-shelby&label=Profile%20views&color=0e75b6&style=flat" alt="pierce-shelby" /> </p>
+
+<h3 align="left">Self Introduction:</h3>
 
 :sparkles: - Like photograph :camera: and music :musical_note:
 
@@ -15,6 +16,7 @@
 
 :mortar_board: - DLUT
 
+<h3 align="left">GitHub Status:</h3>
 <a href="https://github.com/pierce-shelby">
   <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=pierce-shelby&show_icons=true&theme=dracula" />
   <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=pierce-shelby&theme=dracula" alt="pierce-shelby" />
@@ -36,3 +38,7 @@
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 </p>
+
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/pierceshelby"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pierceshelby" /></a></p><br><br>
