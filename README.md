@@ -18,8 +18,10 @@
 :mortar_board: - DLUT
 
 <h3 align="left">GitHub Status:</h3>
-<a href="https://github.com/pierce-shelby">
+<a align="left" href="https://github.com/pierce-shelby">
   <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=pierce-shelby&show_icons=true&theme=dracula" />
+</a>
+<a align="right" href="https://github.com/pierce-shelby">
   <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=pierce-shelby&theme=dracula" alt="pierce-shelby" />
 </a>
 
