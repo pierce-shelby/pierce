@@ -18,12 +18,14 @@
 :mortar_board: - DLUT
 
 <h3 align="left">GitHub Status:</h3>
-<a align="center" href="https://github.com/pierce-shelby">
-  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=pierce-shelby&show_icons=true&theme=dracula" />
-</a>
-<a align="center" href="https://github.com/pierce-shelby">
-  <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=pierce-shelby&theme=dracula" alt="pierce-shelby" />
-</a>
+<p align="center">
+  <a href="https://github.com/pierce-shelby" rel="nofollow">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pierce-shelby&show_icons=true&theme=dracula" />
+  </a>
+  <a href="https://github.com/pierce-shelby" rel="nofollow">
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pierce-shelby&theme=dracula" alt="pierce-shelby" />
+  </a>
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
