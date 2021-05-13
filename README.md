@@ -2,7 +2,7 @@
 <!--this README.md is a Personal Profile which will present at GitHub profile-->
 ![jpg](/resources/IronMan.jpg)
 
-### Hi :wave: I'm Pierce, young man with **Full-Stack-Engineer** dream. :ghost:
+### Hi :wave: I'm Pierce, young man with **Full-Stack-Engineer** dream. :ghost: If you have some questions about me, you can contact me with infomations below.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pierce-shelby&label=Profile%20views&color=0e75b6&style=flat" alt="pierce-shelby" /> </p>
 
 <h3 align="left">Self Introduction:</h3>
